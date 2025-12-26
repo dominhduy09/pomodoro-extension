@@ -9,7 +9,7 @@
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-orange.svg)](https://developer.chrome.com/docs/extensions/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Tech Stack](#tech-stack) • [Contributing](#contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
 
 </div>
 
@@ -17,19 +17,19 @@
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [Support](#support)
-- [Author](#author)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [How It Works](#-how-it-works)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Configuration](#-configuration)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [Support](#-support)
+- [Author](#-author)
+- [License](#-license)
 
 ---
 
@@ -172,13 +172,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspired by the Pomodoro Technique
 - Built using Chrome Extensions MV3
 - Thanks to all contributors and supporters
-
----
-
-<div align="center">
-
-**Made with ❤️ for productivity enthusiasts**
-
-[⬆️ Back to Top](#️-pomodoro-timer-extension)
-
-</div>
