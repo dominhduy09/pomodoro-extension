@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/dominhduy09/pomodoro-extension)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-orange.svg)](https://developer.chrome.com/docs/extensions/)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-orange.svg)](https://chromewebstore.google.com/detail/pfbdgdohllcpdkfccmekclkpfgfnaghj?utm_source=item-share-cb)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 [Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Tech Stack](#-tech-stack) • [Contributing](#-contributing)
